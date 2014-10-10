@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.custom.collections;
+package custom.collections;
 
 /**
  * Klasa sadrži razne funkcije za upravljanje stogom.

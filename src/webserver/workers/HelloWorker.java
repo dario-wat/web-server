@@ -1,11 +1,11 @@
-package hr.fer.zemris.java.webserver.workers;
+package webserver.workers;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import hr.fer.zemris.java.webserver.IWebWorker;
-import hr.fer.zemris.java.webserver.RequestContext;
+import webserver.IWebWorker;
+import webserver.RequestContext;
 
 /**
  * Simple web worker that prints "Hello" and number of letters in given parameter.

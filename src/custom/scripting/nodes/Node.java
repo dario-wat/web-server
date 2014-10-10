@@ -1,6 +1,6 @@
-package hr.fer.zemris.java.custom.scripting.nodes;
+package custom.scripting.nodes;
 
-import hr.fer.zemris.java.custom.collections.ArrayBackedIndexedCollection;
+import custom.collections.ArrayBackedIndexedCollection;
 
 /**
  * Klasa koja predstavlja čvor stabla.

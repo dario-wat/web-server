@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.custom.scripting.exec;
+package custom.scripting.exec;
 
 /**
  * Objekti koji sadrže podatke i koji idu na stog.

@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.custom.scripting.demo;
+package custom.scripting.demo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

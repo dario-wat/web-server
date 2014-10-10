@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.custom.scripting.nodes;
+package custom.scripting.nodes;
 
 /**
  * Node klasa koja sadrži tekst.

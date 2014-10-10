@@ -1,11 +1,11 @@
-package hr.fer.zemris.java.webserver.workers;
+package webserver.workers;
 
 import java.io.IOException;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import hr.fer.zemris.java.webserver.IWebWorker;
-import hr.fer.zemris.java.webserver.RequestContext;
+import webserver.IWebWorker;
+import webserver.RequestContext;
 
 /**
  * Simple web worker that prints all parameters in browser.

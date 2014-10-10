@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.webserver;
+package webserver;
 
 /**
  * Interface for web workers.

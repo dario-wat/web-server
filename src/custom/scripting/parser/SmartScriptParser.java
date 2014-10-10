@@ -1,19 +1,19 @@
-package hr.fer.zemris.java.custom.scripting.parser;
+package custom.scripting.parser;
 
-import hr.fer.zemris.java.custom.collections.ArrayBackedIndexedCollection;
-import hr.fer.zemris.java.custom.collections.ObjectStack;
-import hr.fer.zemris.java.custom.scripting.nodes.DocumentNode;
-import hr.fer.zemris.java.custom.scripting.nodes.EchoNode;
-import hr.fer.zemris.java.custom.scripting.nodes.ForLoopNode;
-import hr.fer.zemris.java.custom.scripting.nodes.Node;
-import hr.fer.zemris.java.custom.scripting.nodes.TextNode;
-import hr.fer.zemris.java.custom.scripting.tokens.Token;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenConstantDouble;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenConstantInteger;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenFunction;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenOperator;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenString;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenVariable;
+import custom.collections.ArrayBackedIndexedCollection;
+import custom.collections.ObjectStack;
+import custom.scripting.nodes.DocumentNode;
+import custom.scripting.nodes.EchoNode;
+import custom.scripting.nodes.ForLoopNode;
+import custom.scripting.nodes.Node;
+import custom.scripting.nodes.TextNode;
+import custom.scripting.tokens.Token;
+import custom.scripting.tokens.TokenConstantDouble;
+import custom.scripting.tokens.TokenConstantInteger;
+import custom.scripting.tokens.TokenFunction;
+import custom.scripting.tokens.TokenOperator;
+import custom.scripting.tokens.TokenString;
+import custom.scripting.tokens.TokenVariable;
 
 /**
  * Služi za parsiranje dokumenta (stringa) te sastavlja stablo nodova.

@@ -1,7 +1,7 @@
-package hr.fer.zemris.java.custom.scripting.demo;
+package custom.scripting.demo;
 
-import hr.fer.zemris.java.webserver.RequestContext;
-import hr.fer.zemris.java.webserver.RequestContext.RCCookie;
+import webserver.RequestContext;
+import webserver.RequestContext.RCCookie;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.nio.file.Files;

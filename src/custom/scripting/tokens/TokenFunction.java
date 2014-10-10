@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.custom.scripting.tokens;
+package custom.scripting.tokens;
 
 
 /**

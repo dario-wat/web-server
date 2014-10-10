@@ -1,8 +1,8 @@
-package hr.fer.zemris.java.custom.scripting.nodes;
+package custom.scripting.nodes;
 
-import hr.fer.zemris.java.custom.scripting.tokens.Token;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenFunction;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenString;
+import custom.scripting.tokens.Token;
+import custom.scripting.tokens.TokenFunction;
+import custom.scripting.tokens.TokenString;
 
 /**
  * Klasa za računske izraze.

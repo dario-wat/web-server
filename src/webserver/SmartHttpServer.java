@@ -1,8 +1,8 @@
-package hr.fer.zemris.java.webserver;
+package webserver;
 
-import hr.fer.zemris.java.custom.scripting.exec.SmartScriptEngine;
-import hr.fer.zemris.java.custom.scripting.parser.SmartScriptParser;
-import hr.fer.zemris.java.webserver.RequestContext.RCCookie;
+import custom.scripting.exec.SmartScriptEngine;
+import custom.scripting.parser.SmartScriptParser;
+import webserver.RequestContext.RCCookie;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;

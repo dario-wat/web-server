@@ -1,8 +1,8 @@
-package hr.fer.zemris.java.custom.scripting.exec;
+package custom.scripting.exec;
 
-import hr.fer.zemris.java.custom.scripting.parser.SmartScriptParser;
-import hr.fer.zemris.java.webserver.RequestContext;
-import hr.fer.zemris.java.webserver.RequestContext.RCCookie;
+import custom.scripting.parser.SmartScriptParser;
+import webserver.RequestContext;
+import webserver.RequestContext.RCCookie;
 
 import java.io.BufferedReader;
 import java.io.IOException;

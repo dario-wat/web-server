@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.custom.collections;
+package custom.collections;
 
 /**
  * Klasa koja služi za izvođenje raznih

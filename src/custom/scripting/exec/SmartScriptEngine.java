@@ -1,20 +1,20 @@
-package hr.fer.zemris.java.custom.scripting.exec;
+package custom.scripting.exec;
 
 import java.io.IOException;
 import java.text.DecimalFormat;
-import hr.fer.zemris.java.custom.scripting.nodes.DocumentNode;
-import hr.fer.zemris.java.custom.scripting.nodes.EchoNode;
-import hr.fer.zemris.java.custom.scripting.nodes.ForLoopNode;
-import hr.fer.zemris.java.custom.scripting.nodes.INodeVisitor;
-import hr.fer.zemris.java.custom.scripting.nodes.TextNode;
-import hr.fer.zemris.java.custom.scripting.tokens.Token;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenConstantDouble;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenConstantInteger;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenFunction;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenOperator;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenString;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenVariable;
-import hr.fer.zemris.java.webserver.RequestContext;
+import custom.scripting.nodes.DocumentNode;
+import custom.scripting.nodes.EchoNode;
+import custom.scripting.nodes.ForLoopNode;
+import custom.scripting.nodes.INodeVisitor;
+import custom.scripting.nodes.TextNode;
+import custom.scripting.tokens.Token;
+import custom.scripting.tokens.TokenConstantDouble;
+import custom.scripting.tokens.TokenConstantInteger;
+import custom.scripting.tokens.TokenFunction;
+import custom.scripting.tokens.TokenOperator;
+import custom.scripting.tokens.TokenString;
+import custom.scripting.tokens.TokenVariable;
+import webserver.RequestContext;
 
 /**
  * Program for executing smart script codes.

@@ -1,7 +1,7 @@
-package hr.fer.zemris.java.custom.scripting.nodes;
+package custom.scripting.nodes;
 
-import hr.fer.zemris.java.custom.scripting.tokens.Token;
-import hr.fer.zemris.java.custom.scripting.tokens.TokenVariable;
+import custom.scripting.tokens.Token;
+import custom.scripting.tokens.TokenVariable;
 
 /**
  * Node klasa za for petlju.
